@@ -3,9 +3,9 @@ import googletrans
 import os
 from pprint import pprint
 # 輸入自己Bot的TOKEN碼
-TOKEN = os.environ['TOKEN']
-SRCLanguage=os.environ['SRC']
-DSTLanguage=os.environ['DST']
+TOKEN = os.environ['MTA4OTc5MTkyMjY2MDQ0NjI2OA.G2irjp.5itnM4edBbOy4lNaUofyjXRLb8Hig6_2Z9gAZM']
+SRCLanguage=os.environ['']
+DSTLanguage=os.environ['zh-TW']
 
 client = discord.Client()
 
